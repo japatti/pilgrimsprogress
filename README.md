@@ -6,7 +6,7 @@ I know very little about coding. So, anything is better than nothing.
 
 Here we go.
 
-Nothings happening.
+Nothing's happening.
 
 Codey code code
 code()
